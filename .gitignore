@@ -1,0 +1,28 @@
+data_dir/*
+# ubiquant-market-prediction/ubiquant/competition.cpython-37m-x86_64-linux-gnu.so
+# ubiquant-market-prediction/ubiquant-market-prediction.zip
+.git/*
+*.csv
+*.zip
+*.xlsx
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+*.heic
+*.JPG
+*.JPEG
+*.PNG
+*.BMP
+*.TIF
+*.TIFF
+*.HEIC
+*.mp4
+*.mov
+*.MOV
+*.avi
+*.data
+*.json
+*.cfg
